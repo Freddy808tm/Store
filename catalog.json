@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792873792764,
+  "updated": 1792873844164,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
@@ -191,6 +191,20 @@
       ],
       "packageName": "top.rootu.lampa",
       "added": 1792873792763
+    },
+    {
+      "id": "57e55236-dbb",
+      "name": "Karing",
+      "description": "",
+      "category": "kvn",
+      "source": "github",
+      "repo": "https:\/\/github.com\/KaringX\/karing",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/57e55236-dbb.png?v=1792873842"
+      ],
+      "packageName": "com.nebula.karing",
+      "added": 1792873844164
     }
   ]
 }
