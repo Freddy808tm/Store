@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792873742569,
+  "updated": 1792873792764,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
@@ -177,6 +177,20 @@
       ],
       "packageName": "com.github.dyhkwong.sagernet",
       "added": 1792873742569
+    },
+    {
+      "id": "8f3ff6f4-3a4",
+      "name": "LAMPA",
+      "description": "",
+      "category": "cinema",
+      "source": "github",
+      "repo": "https:\/\/github.com\/lampa-app\/LAMPA",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/8f3ff6f4-3a4.png?v=1792873790"
+      ],
+      "packageName": "top.rootu.lampa",
+      "added": 1792873792763
     }
   ]
 }
