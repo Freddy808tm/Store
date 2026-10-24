@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792880344770,
+  "updated": 1792880720999,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -401,26 +401,6 @@
       "versionCode": 184,
       "size": 16317658,
       "added": 1792879054247
-    },
-    {
-      "id": "0ef15832-cf2",
-      "name": "VK Видео",
-      "description": "",
-      "category": "video",
-      "source": "hosted",
-      "urls": [
-        "https:\/\/github.com\/Freddy808tm\/Store\/releases\/download\/files\/com.vk.vkvideo-49588-1792879167.apk",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/packages\/generic\/alienmarket\/1.0.0\/com.vk.vkvideo-49588-1792879167.apk"
-      ],
-      "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/0ef15832-cf2.png?v=1792879204",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F0ef15832-cf2.png\/raw?ref=main&v=1792879204"
-      ],
-      "packageName": "com.vk.vkvideo",
-      "versionName": "1.157",
-      "versionCode": 49588,
-      "size": 113563431,
-      "added": 1792879209540
     },
     {
       "id": "24fa4bec-fae",
