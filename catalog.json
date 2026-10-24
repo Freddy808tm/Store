@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792879541093,
+  "updated": 1792879813099,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -406,7 +406,7 @@
       "id": "03a0f42d-38e",
       "name": "ALPAC",
       "description": "",
-      "category": "tv",
+      "category": "cinema",
       "source": "hosted",
       "urls": [
         "https:\/\/github.com\/Freddy808tm\/Store\/releases\/download\/files\/cc.alcopa.tv-184-1792879039.apk",
