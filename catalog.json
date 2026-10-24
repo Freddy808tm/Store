@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792879876944,
+  "updated": 1792880199744,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -461,6 +461,26 @@
       "versionCode": 2001002584,
       "size": 49825824,
       "added": 1792879541093
+    },
+    {
+      "id": "94454a59-f5a",
+      "name": "Файловый менеджер +",
+      "description": "",
+      "category": "tools",
+      "source": "hosted",
+      "urls": [
+        "https:\/\/github.com\/Freddy808tm\/Store\/releases\/download\/files\/com.alphainventor.filemanager-2403084-1792880182.apk",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/packages\/generic\/alienmarket\/1.0.0\/com.alphainventor.filemanager-2403084-1792880182.apk"
+      ],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/94454a59-f5a.png?v=1792880194",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F94454a59-f5a.png\/raw?ref=main&v=1792880194"
+      ],
+      "packageName": "com.alphainventor.filemanager",
+      "versionName": "3.8.4",
+      "versionCode": 2403084,
+      "size": 24301861,
+      "added": 1792880199744
     }
   ]
 }
