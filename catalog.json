@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792878294814,
+  "updated": 1792878486848,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -343,6 +343,25 @@
       "versionCode": 41,
       "size": 19010515,
       "added": 1792878294814
+    },
+    {
+      "id": "86b5b75e-75b",
+      "name": "ТоррентТВ",
+      "description": "",
+      "category": "tv",
+      "source": "direct",
+      "urls": [
+        "http:\/\/ttv.run\/dwl.php?file=soft\/android\/ru.torrenttv.app-4.2.2.apk"
+      ],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/86b5b75e-75b.png?v=1792878481",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F86b5b75e-75b.png\/raw?ref=main&v=1792878481"
+      ],
+      "packageName": "ru.torrenttv.app",
+      "versionName": "4.2.2",
+      "versionCode": 40202,
+      "size": 193082465,
+      "added": 1792878486848
     }
   ]
 }
