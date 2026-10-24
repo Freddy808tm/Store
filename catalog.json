@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792880267684,
+  "updated": 1792880344770,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -461,6 +461,26 @@
       "versionCode": 2403084,
       "size": 24301861,
       "added": 1792880199744
+    },
+    {
+      "id": "b7bf4910-a03",
+      "name": "Напоминалка",
+      "description": "",
+      "category": "misc",
+      "source": "hosted",
+      "urls": [
+        "https:\/\/github.com\/Freddy808tm\/Store\/releases\/download\/files\/ru.voicereminder-6-1792880336.apk",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/packages\/generic\/alienmarket\/1.0.0\/ru.voicereminder-6-1792880336.apk"
+      ],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/b7bf4910-a03.png?v=1792880341",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fb7bf4910-a03.png\/raw?ref=main&v=1792880341"
+      ],
+      "packageName": "ru.voicereminder",
+      "versionName": "1.5",
+      "versionCode": 6,
+      "size": 56336,
+      "added": 1792880344770
     }
   ]
 }
