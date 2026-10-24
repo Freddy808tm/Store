@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792878486848,
+  "updated": 1792878685522,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -362,6 +362,25 @@
       "versionCode": 40202,
       "size": 193082465,
       "added": 1792878486848
+    },
+    {
+      "id": "54ef3022-6a6",
+      "name": "AM Vision IPTV",
+      "description": "",
+      "category": "tv",
+      "source": "direct",
+      "urls": [
+        "https:\/\/www.tvbox.one\/atv-release\/AM-Vision-IPTV-0.29.1.apk"
+      ],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/54ef3022-6a6.png?v=1792878680",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F54ef3022-6a6.png\/raw?ref=main&v=1792878680"
+      ],
+      "packageName": "com.amvision.iptv",
+      "versionName": "0.29.1 beta",
+      "versionCode": 29,
+      "size": 12374699,
+      "added": 1792878685522
     }
   ]
 }
