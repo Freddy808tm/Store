@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792876800459,
+  "updated": 1792876948285,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -309,6 +309,21 @@
       ],
       "packageName": "com.v2ray.ang.fdroid",
       "added": 1792874150952
+    },
+    {
+      "id": "419dc510-ad9",
+      "name": "PRISMA",
+      "description": "",
+      "category": "cinema",
+      "source": "github",
+      "repo": "https:\/\/github.com\/Sheinices\/Prisma_TV",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/419dc510-ad9.png?v=1792876944",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F419dc510-ad9.png\/raw?ref=main&v=1792876944"
+      ],
+      "packageName": "top.rootu.prisma",
+      "added": 1792876948285
     }
   ]
 }
