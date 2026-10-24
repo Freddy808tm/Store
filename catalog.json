@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792873953065,
+  "updated": 1792874003957,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
@@ -233,6 +233,20 @@
       ],
       "packageName": "com.follow.clash",
       "added": 1792873953065
+    },
+    {
+      "id": "32967d97-5f3",
+      "name": "Happ",
+      "description": "",
+      "category": "kvn",
+      "source": "github",
+      "repo": "https:\/\/github.com\/Happ-proxy\/happ-android",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/32967d97-5f3.png?v=1792874001"
+      ],
+      "packageName": "su.happ.proxyutility",
+      "added": 1792874003957
     }
   ]
 }
