@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792871328014,
+  "updated": 1792871564792,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
@@ -85,6 +85,24 @@
       ],
       "packageName": "llc.itdev.incy",
       "added": 1792871328014
+    },
+    {
+      "id": "2ef53b6a-5b4",
+      "name": "Seena",
+      "description": "",
+      "category": "cinema",
+      "source": "direct",
+      "urls": [
+        "https:\/\/seena.tv\/updates\/Seena-1.9.0.apk"
+      ],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/2ef53b6a-5b4.png?v=1792871562"
+      ],
+      "packageName": "com.seena.app",
+      "versionName": "1.9.0",
+      "versionCode": 1900,
+      "size": 135796230,
+      "added": 1792871564792
     }
   ]
 }
