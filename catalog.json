@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "name": "AlienMarket",
+  "updated": 1792858734580,
+  "mirrors": [
+    "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
+    "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
+  ],
+  "categories": [
+    {
+      "id": "tv",
+      "name": "ТВ",
+      "title": "Телевидение"
+    },
+    {
+      "id": "video",
+      "name": "Видео",
+      "title": "Видео"
+    },
+    {
+      "id": "cinema",
+      "name": "Кино",
+      "title": "Фильмы и сериалы"
+    },
+    {
+      "id": "kvn",
+      "name": "КВН",
+      "title": "КВН"
+    },
+    {
+      "id": "internet",
+      "name": "Интернет",
+      "title": "Интернет"
+    },
+    {
+      "id": "tools",
+      "name": "Инструменты",
+      "title": "Инструменты"
+    },
+    {
+      "id": "misc",
+      "name": "Разное",
+      "title": "Разное"
+    }
+  ],
+  "apps": []
+}
