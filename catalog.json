@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792866801388,
+  "updated": 1792871110032,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
@@ -57,6 +57,20 @@
       ],
       "packageName": "free.zona",
       "added": 1792861724545
+    },
+    {
+      "id": "a30d3018-e92",
+      "name": "RuVideoHub",
+      "description": "",
+      "category": "video",
+      "source": "github",
+      "repo": "https:\/\/github.com\/ByteBudda\/RuVideoHub",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/a30d3018-e92.png?v=1792871107"
+      ],
+      "packageName": "com.ruvideohub.app",
+      "added": 1792871110032
     }
   ]
 }
