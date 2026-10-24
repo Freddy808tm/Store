@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792873899860,
+  "updated": 1792873953065,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
@@ -219,6 +219,20 @@
       ],
       "packageName": "net.yuandev.onexray",
       "added": 1792873899860
+    },
+    {
+      "id": "1b0cd817-a2c",
+      "name": "FlClash",
+      "description": "",
+      "category": "kvn",
+      "source": "github",
+      "repo": "https:\/\/github.com\/chen08209\/FlClash",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/1b0cd817-a2c.png?v=1792873950"
+      ],
+      "packageName": "com.follow.clash",
+      "added": 1792873953065
     }
   ]
 }
