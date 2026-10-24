@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792873629055,
+  "updated": 1792873699875,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
@@ -149,6 +149,20 @@
       ],
       "packageName": "ru.yourok.torrserve",
       "added": 1792873629055
+    },
+    {
+      "id": "4c78c1c0-6ea",
+      "name": "L×Box",
+      "description": "",
+      "category": "kvn",
+      "source": "github",
+      "repo": "https:\/\/github.com\/Leadaxe\/LxBox",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/4c78c1c0-6ea.png?v=1792873697"
+      ],
+      "packageName": "com.leadaxe.lxbox",
+      "added": 1792873699875
     }
   ]
 }
