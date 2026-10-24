@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792874003957,
+  "updated": 1792874065782,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
@@ -247,6 +247,20 @@
       ],
       "packageName": "su.happ.proxyutility",
       "added": 1792874003957
+    },
+    {
+      "id": "d6fe1997-747",
+      "name": "XrayFA",
+      "description": "",
+      "category": "kvn",
+      "source": "github",
+      "repo": "https:\/\/github.com\/Q7DF1\/XrayFA",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/d6fe1997-747.png?v=1792874063"
+      ],
+      "packageName": "com.android.xrayfa",
+      "added": 1792874065782
     }
   ]
 }
