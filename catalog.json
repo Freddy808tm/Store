@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792874065782,
+  "updated": 1792874112555,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
@@ -261,6 +261,20 @@
       ],
       "packageName": "com.android.xrayfa",
       "added": 1792874065782
+    },
+    {
+      "id": "41ce75ed-75e",
+      "name": "AsteriskNG",
+      "description": "",
+      "category": "kvn",
+      "source": "github",
+      "repo": "https:\/\/github.com\/Asterisk4Magisk\/AsteriskNG",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/41ce75ed-75e.png?v=1792874109"
+      ],
+      "packageName": "org.asterisk.zcc.ang",
+      "added": 1792874112555
     }
   ]
 }
