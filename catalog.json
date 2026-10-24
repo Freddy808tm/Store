@@ -1,10 +1,12 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792874150952,
+  "updated": 1792876406360,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
-    "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
+    "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
+    "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json",
+    "https:\/\/gitlab.com\/Rezident.023\/market\/-\/raw\/main\/catalog.json"
   ],
   "categories": [
     {
@@ -53,7 +55,8 @@
       "repo": "https:\/\/github.com\/julay123\/mobi.zona",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/d585c573-e0e.png?v=1792861722"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/d585c573-e0e.png?v=1792861722",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fd585c573-e0e.png\/raw?ref=main"
       ],
       "packageName": "free.zona",
       "added": 1792861724545
@@ -67,7 +70,8 @@
       "repo": "https:\/\/github.com\/ByteBudda\/RuVideoHub",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/a30d3018-e92.png?v=1792871107"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/a30d3018-e92.png?v=1792871107",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fa30d3018-e92.png\/raw?ref=main"
       ],
       "packageName": "com.ruvideohub.app",
       "added": 1792871110032
@@ -81,7 +85,8 @@
       "repo": "https:\/\/github.com\/INCY-DEV\/incy-platforms",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/2e1318ca-76a.png?v=1792871325"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/2e1318ca-76a.png?v=1792871325",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F2e1318ca-76a.png\/raw?ref=main"
       ],
       "packageName": "llc.itdev.incy",
       "added": 1792871328014
@@ -96,7 +101,8 @@
         "https:\/\/seena.tv\/updates\/Seena-1.9.0.apk"
       ],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/2ef53b6a-5b4.png?v=1792871562"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/2ef53b6a-5b4.png?v=1792871562",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F2ef53b6a-5b4.png\/raw?ref=main"
       ],
       "packageName": "com.seena.app",
       "versionName": "1.9.0",
@@ -111,10 +117,12 @@
       "category": "video",
       "source": "hosted",
       "urls": [
-        "https:\/\/github.com\/Freddy808tm\/Store\/releases\/download\/files\/com.biomes.vanced-90681108-1792872569.apk"
+        "https:\/\/github.com\/Freddy808tm\/Store\/releases\/download\/files\/com.biomes.vanced-90681108-1792872569.apk",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/packages\/generic\/alienmarket\/1.0.0\/com.biomes.vanced-90681108-1792876373.apk"
       ],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/a0eaaf81-7c2.png?v=1792872579"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/a0eaaf81-7c2.png?v=1792872579",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fa0eaaf81-7c2.png\/raw?ref=main"
       ],
       "packageName": "com.biomes.vanced",
       "versionName": "5.6.81.108",
@@ -131,7 +139,8 @@
       "repo": "https:\/\/github.com\/yamixdev\/Etonify",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/bda45086-0d1.png?v=1792873496"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/bda45086-0d1.png?v=1792873496",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fbda45086-0d1.png\/raw?ref=main"
       ],
       "packageName": "com.etonify.meow_client",
       "added": 1792873498354
@@ -145,7 +154,8 @@
       "repo": "https:\/\/github.com\/YouROK\/TorrServe",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/95cfb298-44a.png?v=1792873625"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/95cfb298-44a.png?v=1792873625",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F95cfb298-44a.png\/raw?ref=main"
       ],
       "packageName": "ru.yourok.torrserve",
       "added": 1792873629055
@@ -159,7 +169,8 @@
       "repo": "https:\/\/github.com\/Leadaxe\/LxBox",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/4c78c1c0-6ea.png?v=1792873697"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/4c78c1c0-6ea.png?v=1792873697",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F4c78c1c0-6ea.png\/raw?ref=main"
       ],
       "packageName": "com.leadaxe.lxbox",
       "added": 1792873699875
@@ -173,7 +184,8 @@
       "repo": "https:\/\/github.com\/ExclaveNetwork\/Exclave",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/27406657-ba4.png?v=1792873740"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/27406657-ba4.png?v=1792873740",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F27406657-ba4.png\/raw?ref=main"
       ],
       "packageName": "com.github.dyhkwong.sagernet",
       "added": 1792873742569
@@ -187,7 +199,8 @@
       "repo": "https:\/\/github.com\/lampa-app\/LAMPA",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/8f3ff6f4-3a4.png?v=1792873790"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/8f3ff6f4-3a4.png?v=1792873790",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F8f3ff6f4-3a4.png\/raw?ref=main"
       ],
       "packageName": "top.rootu.lampa",
       "added": 1792873792763
@@ -201,7 +214,8 @@
       "repo": "https:\/\/github.com\/KaringX\/karing",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/57e55236-dbb.png?v=1792873842"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/57e55236-dbb.png?v=1792873842",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F57e55236-dbb.png\/raw?ref=main"
       ],
       "packageName": "com.nebula.karing",
       "added": 1792873844164
@@ -215,7 +229,8 @@
       "repo": "https:\/\/github.com\/YuanDevTeam\/OneXray",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/994320d0-ec9.png?v=1792873898"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/994320d0-ec9.png?v=1792873898",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F994320d0-ec9.png\/raw?ref=main"
       ],
       "packageName": "net.yuandev.onexray",
       "added": 1792873899860
@@ -229,7 +244,8 @@
       "repo": "https:\/\/github.com\/chen08209\/FlClash",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/1b0cd817-a2c.png?v=1792873950"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/1b0cd817-a2c.png?v=1792873950",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F1b0cd817-a2c.png\/raw?ref=main"
       ],
       "packageName": "com.follow.clash",
       "added": 1792873953065
@@ -243,7 +259,8 @@
       "repo": "https:\/\/github.com\/Happ-proxy\/happ-android",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/32967d97-5f3.png?v=1792874001"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/32967d97-5f3.png?v=1792874001",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F32967d97-5f3.png\/raw?ref=main"
       ],
       "packageName": "su.happ.proxyutility",
       "added": 1792874003957
@@ -257,7 +274,8 @@
       "repo": "https:\/\/github.com\/Q7DF1\/XrayFA",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/d6fe1997-747.png?v=1792874063"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/d6fe1997-747.png?v=1792874063",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fd6fe1997-747.png\/raw?ref=main"
       ],
       "packageName": "com.android.xrayfa",
       "added": 1792874065782
@@ -271,7 +289,8 @@
       "repo": "https:\/\/github.com\/Asterisk4Magisk\/AsteriskNG",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/41ce75ed-75e.png?v=1792874109"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/41ce75ed-75e.png?v=1792874109",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F41ce75ed-75e.png\/raw?ref=main"
       ],
       "packageName": "org.asterisk.zcc.ang",
       "added": 1792874112555
@@ -285,7 +304,8 @@
       "repo": "https:\/\/github.com\/2dust\/v2rayNG",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/7e7a5ce6-81a.png?v=1792874149"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/7e7a5ce6-81a.png?v=1792874149",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F7e7a5ce6-81a.png\/raw?ref=main"
       ],
       "packageName": "com.v2ray.ang.fdroid",
       "added": 1792874150952
