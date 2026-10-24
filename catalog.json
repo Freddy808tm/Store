@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792876948285,
+  "updated": 1792878294814,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -324,6 +324,25 @@
       ],
       "packageName": "top.rootu.prisma",
       "added": 1792876948285
+    },
+    {
+      "id": "67938e9a-7b3",
+      "name": "Lift",
+      "description": "",
+      "category": "cinema",
+      "source": "direct",
+      "urls": [
+        "https:\/\/liftapp.ink\/app_last"
+      ],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/67938e9a-7b3.png?v=1792878288",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F67938e9a-7b3.png\/raw?ref=main&v=1792878288"
+      ],
+      "packageName": "io.lift.app",
+      "versionName": "0.2.50",
+      "versionCode": 41,
+      "size": 19010515,
+      "added": 1792878294814
     }
   ]
 }
