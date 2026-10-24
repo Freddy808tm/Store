@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792874112555,
+  "updated": 1792874150952,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
@@ -275,6 +275,20 @@
       ],
       "packageName": "org.asterisk.zcc.ang",
       "added": 1792874112555
+    },
+    {
+      "id": "7e7a5ce6-81a",
+      "name": "v2rayNG",
+      "description": "",
+      "category": "tv",
+      "source": "github",
+      "repo": "https:\/\/github.com\/2dust\/v2rayNG",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/7e7a5ce6-81a.png?v=1792874149"
+      ],
+      "packageName": "com.v2ray.ang.fdroid",
+      "added": 1792874150952
     }
   ]
 }
