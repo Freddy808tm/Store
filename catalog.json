@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792876623225,
+  "updated": 1792876800459,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -299,7 +299,7 @@
       "id": "7e7a5ce6-81a",
       "name": "v2rayNG",
       "description": "",
-      "category": "tv",
+      "category": "kvn",
       "source": "github",
       "repo": "https:\/\/github.com\/2dust\/v2rayNG",
       "urls": [],
