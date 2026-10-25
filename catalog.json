@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792961564216,
+  "updated": 1792961985234,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -401,6 +401,26 @@
       "versionCode": 8,
       "size": 419557,
       "added": 1792933405215
+    },
+    {
+      "id": "8856c0cc-648",
+      "name": "DuckDuckGo",
+      "description": "",
+      "category": "internet",
+      "source": "fdroid",
+      "repo": "https:\/\/f-droid.org\/packages\/com.duckduckgo.mobile.android\/",
+      "urls": [
+        "https:\/\/f-droid.org\/repo\/com.duckduckgo.mobile.android_52971000.apk"
+      ],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/8856c0cc-648.png?v=1792961980",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F8856c0cc-648.png\/raw?ref=main&v=1792961980"
+      ],
+      "packageName": "com.duckduckgo.mobile.android",
+      "versionName": "5.297.1",
+      "versionCode": 52971000,
+      "size": 142353355,
+      "added": 1792961985234
     }
   ]
 }
