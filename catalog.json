@@ -1,12 +1,12 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792942637235,
+  "updated": 1792942650000,
   "mirrors": [
-    "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
-    "https:\/\/gitlab.com\/Rezident.023\/market\/-\/raw\/main\/catalog.json",
-    "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json"
+    "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
+    "https:\/\/cdn.jsdelivr.net\/gh\/Freddy808tm\/Store@main\/catalog.json",
+    "https:\/\/gitlab.com\/Rezident.023\/market\/-\/raw\/main\/catalog.json"
   ],
   "categories": [
     {
