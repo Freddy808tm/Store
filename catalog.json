@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792924641335,
+  "updated": 1792924746521,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -401,26 +401,6 @@
       "versionCode": 184,
       "size": 16317658,
       "added": 1792879054247
-    },
-    {
-      "id": "24fa4bec-fae",
-      "name": "MX Player Pro",
-      "description": "",
-      "category": "tools",
-      "source": "hosted",
-      "urls": [
-        "https:\/\/github.com\/Freddy808tm\/Store\/releases\/download\/files\/com.mxtech.videoplayer.pro-2001002584-1792879517.apk",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/packages\/generic\/alienmarket\/1.0.0\/com.mxtech.videoplayer.pro-2001002584-1792879517.apk"
-      ],
-      "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/24fa4bec-fae.png?v=1792879537",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F24fa4bec-fae.png\/raw?ref=main&v=1792879537"
-      ],
-      "packageName": "com.mxtech.videoplayer.pro",
-      "versionName": "1.93.4",
-      "versionCode": 2001002584,
-      "size": 49825824,
-      "added": 1792879541093
     },
     {
       "id": "b7bf4910-a03",
