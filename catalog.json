@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1792924746521,
+  "updated": 1792924770812,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -109,26 +109,6 @@
       "versionCode": 1900,
       "size": 135796230,
       "added": 1792871564792
-    },
-    {
-      "id": "a0eaaf81-7c2",
-      "name": "YouTube",
-      "description": "",
-      "category": "video",
-      "source": "hosted",
-      "urls": [
-        "https:\/\/github.com\/Freddy808tm\/Store\/releases\/download\/files\/com.biomes.vanced-90681108-1792872569.apk",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/packages\/generic\/alienmarket\/1.0.0\/com.biomes.vanced-90681108-1792876373.apk"
-      ],
-      "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/a0eaaf81-7c2.png?v=1792872579",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fa0eaaf81-7c2.png\/raw?ref=main"
-      ],
-      "packageName": "com.biomes.vanced",
-      "versionName": "5.6.81.108",
-      "versionCode": 90681108,
-      "size": 19654008,
-      "added": 1792872581338
     },
     {
       "id": "bda45086-0d1",
