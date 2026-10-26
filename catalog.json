@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793035192415,
+  "updated": 1793035233897,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -458,6 +458,25 @@
       "versionCode": 90681108,
       "size": 19654008,
       "added": 1793035192415
+    },
+    {
+      "id": "8c0cd792-218",
+      "name": "MX Player Pro",
+      "description": "",
+      "category": "tools",
+      "source": "yandex",
+      "repo": "https:\/\/disk.yandex.ru\/d\/uk7Teb4VqnBf0A",
+      "assetFilter": "Mx player",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/8c0cd792-218.png?v=1793035229",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F8c0cd792-218.png\/raw?ref=main&v=1793035229"
+      ],
+      "packageName": "com.mxtech.videoplayer.pro",
+      "versionName": "1.93.4",
+      "versionCode": 2001002584,
+      "size": 49825824,
+      "added": 1793035233897
     }
   ]
 }
