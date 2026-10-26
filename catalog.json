@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793035233897,
+  "updated": 1793035382013,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -477,6 +477,25 @@
       "versionCode": 2001002584,
       "size": 49825824,
       "added": 1793035233897
+    },
+    {
+      "id": "985d3df6-323",
+      "name": "VK Видео",
+      "description": "",
+      "category": "video",
+      "source": "yandex",
+      "repo": "https:\/\/disk.yandex.ru\/d\/uk7Teb4VqnBf0A",
+      "assetFilter": "vk",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/985d3df6-323.png?v=1793035377",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F985d3df6-323.png\/raw?ref=main&v=1793035377"
+      ],
+      "packageName": "com.vk.vkvideo",
+      "versionName": "1.158",
+      "versionCode": 49935,
+      "size": 114372118,
+      "added": 1793035382013
     }
   ]
 }
