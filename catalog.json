@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793110553338,
+  "updated": 1793110665234,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -502,13 +502,14 @@
       "id": "6834bf15-fc4",
       "name": "Файловый менеджер +",
       "description": "",
-      "category": "tools",
+      "category": "tv",
       "source": "yandex",
-      "repo": "https:\/\/disk.yandex.ru\/d\/afI8TTopmEaG5Q",
+      "repo": "https:\/\/disk.yandex.ru\/d\/uk7Teb4VqnBf0A",
+      "assetFilter": "1",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/6834bf15-fc4.png?v=1793110042",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F6834bf15-fc4.png\/raw?ref=main&v=1793110042"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/6834bf15-fc4.png?v=1793110659",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F6834bf15-fc4.png\/raw?ref=main&v=1793110659"
       ],
       "packageName": "com.alphainventor.filemanager",
       "versionName": "3.8.4",
