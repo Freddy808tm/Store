@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793110665234,
+  "updated": 1793111846623,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -502,7 +502,7 @@
       "id": "6834bf15-fc4",
       "name": "Файловый менеджер +",
       "description": "",
-      "category": "tv",
+      "category": "tools",
       "source": "yandex",
       "repo": "https:\/\/disk.yandex.ru\/d\/uk7Teb4VqnBf0A",
       "assetFilter": "1",
