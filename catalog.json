@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793105826382,
+  "updated": 1793108106943,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -402,24 +402,6 @@
       "versionCode": 52971000,
       "size": 142353355,
       "added": 1792961985234
-    },
-    {
-      "id": "716eba79-a06",
-      "name": "ALPAC",
-      "description": "",
-      "category": "cinema",
-      "source": "yandex",
-      "repo": "https:\/\/disk.yandex.ru\/d\/uk7Teb4VqnBf0A",
-      "urls": [],
-      "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/716eba79-a06.png?v=1793034015",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F716eba79-a06.png\/raw?ref=main&v=1793034015"
-      ],
-      "packageName": "cc.alcopa.tv",
-      "versionName": "1.1.0",
-      "versionCode": 201,
-      "size": 17829757,
-      "added": 1793034022749
     },
     {
       "id": "0bcd85d8-289",
