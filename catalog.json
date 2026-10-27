@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793109903854,
+  "updated": 1793110047800,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -504,11 +504,11 @@
       "description": "",
       "category": "tools",
       "source": "yandex",
-      "repo": "https:\/\/disk.yandex.ru\/d\/uk7Teb4VqnBf0A",
+      "repo": "https:\/\/disk.yandex.ru\/d\/afI8TTopmEaG5Q",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/6834bf15-fc4.png?v=1793109898",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F6834bf15-fc4.png\/raw?ref=main&v=1793109898"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/6834bf15-fc4.png?v=1793110042",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F6834bf15-fc4.png\/raw?ref=main&v=1793110042"
       ],
       "packageName": "com.alphainventor.filemanager",
       "versionName": "3.8.4",
