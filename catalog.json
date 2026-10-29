@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793289788977,
+  "updated": 1793289999214,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -506,16 +506,16 @@
       "category": "cinema",
       "source": "direct",
       "urls": [
-        "https:\/\/seena.tv\/updates\/Seena-1.9.3-arm64-v8a.apk"
+        "https:\/\/seena.tv\/updates\/Seena-1.9.3.apk"
       ],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/915f5da3-9e6.png?v=1793289783",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F915f5da3-9e6.png\/raw?ref=main&v=1793289783"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/915f5da3-9e6.png?v=1793289992",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F915f5da3-9e6.png\/raw?ref=main&v=1793289992"
       ],
       "packageName": "com.seena.app",
       "versionName": "1.9.3",
       "versionCode": 1903,
-      "size": 30638895,
+      "size": 82961435,
       "added": 1793105826382
     },
     {
