@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793207737648,
+  "updated": 1793285560476,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -104,7 +104,10 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fbda45086-0d1.png\/raw?ref=main"
       ],
       "packageName": "com.etonify.meow_client",
-      "added": 1792873498354
+      "added": 1792873498354,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "95cfb298-44a",
@@ -134,7 +137,10 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F4c78c1c0-6ea.png\/raw?ref=main"
       ],
       "packageName": "com.leadaxe.lxbox",
-      "added": 1792873699875
+      "added": 1792873699875,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "27406657-ba4",
@@ -149,7 +155,10 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F27406657-ba4.png\/raw?ref=main"
       ],
       "packageName": "com.github.dyhkwong.sagernet",
-      "added": 1792873742569
+      "added": 1792873742569,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "8f3ff6f4-3a4",
@@ -179,7 +188,10 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F57e55236-dbb.png\/raw?ref=main"
       ],
       "packageName": "com.nebula.karing",
-      "added": 1792873844164
+      "added": 1792873844164,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "994320d0-ec9",
@@ -194,7 +206,10 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F994320d0-ec9.png\/raw?ref=main"
       ],
       "packageName": "net.yuandev.onexray",
-      "added": 1792873899860
+      "added": 1792873899860,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "1b0cd817-a2c",
@@ -209,7 +224,10 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F1b0cd817-a2c.png\/raw?ref=main"
       ],
       "packageName": "com.follow.clash",
-      "added": 1792873953065
+      "added": 1792873953065,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "32967d97-5f3",
@@ -239,7 +257,10 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fd6fe1997-747.png\/raw?ref=main"
       ],
       "packageName": "com.android.xrayfa",
-      "added": 1792874065782
+      "added": 1792874065782,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "41ce75ed-75e",
@@ -254,7 +275,10 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F41ce75ed-75e.png\/raw?ref=main"
       ],
       "packageName": "org.asterisk.zcc.ang",
-      "added": 1792874112555
+      "added": 1792874112555,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "7e7a5ce6-81a",
@@ -269,7 +293,10 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F7e7a5ce6-81a.png\/raw?ref=main"
       ],
       "packageName": "com.v2ray.ang.fdroid",
-      "added": 1792874150952
+      "added": 1792874150952,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "419dc510-ad9",
@@ -361,7 +388,10 @@
       "versionName": "1.5",
       "versionCode": 6,
       "size": 56336,
-      "added": 1792880344770
+      "added": 1792880344770,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "3bcfb761-f38",
@@ -401,7 +431,10 @@
       "versionName": "5.297.1",
       "versionCode": 52971000,
       "size": 142353355,
-      "added": 1792961985234
+      "added": 1792961985234,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "0bcd85d8-289",
@@ -420,7 +453,10 @@
       "versionName": "5.6.81.108",
       "versionCode": 90681108,
       "size": 19654008,
-      "added": 1793035192415
+      "added": 1793035192415,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "8c0cd792-218",
@@ -458,7 +494,10 @@
       "versionName": "1.158",
       "versionCode": 49935,
       "size": 114372118,
-      "added": 1793035382013
+      "added": 1793035382013,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "915f5da3-9e6",
@@ -515,7 +554,10 @@
       "versionName": "3.8.4",
       "versionCode": 2403084,
       "size": 14045448,
-      "added": 1793109903854
+      "added": 1793109903854,
+      "platforms": [
+        "android"
+      ]
     },
     {
       "id": "e81be4f3-087",
@@ -534,7 +576,10 @@
       "versionName": "2.115.1.857",
       "versionCode": 68548,
       "size": 65615785,
-      "added": 1793110553338
+      "added": 1793110553338,
+      "platforms": [
+        "tv"
+      ]
     }
   ]
 }
