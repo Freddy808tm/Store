@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793286021744,
+  "updated": 1793286149284,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -494,10 +494,7 @@
       "versionName": "1.158",
       "versionCode": 49935,
       "size": 114372118,
-      "added": 1793035382013,
-      "platforms": [
-        "android"
-      ]
+      "added": 1793035382013
     },
     {
       "id": "915f5da3-9e6",
@@ -576,10 +573,7 @@
       "versionName": "2.115.1.857",
       "versionCode": 68548,
       "size": 65615785,
-      "added": 1793110553338,
-      "platforms": [
-        "tv"
-      ]
+      "added": 1793110553338
     }
   ]
 }
