@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793285936109,
+  "updated": 1793286021744,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -59,10 +59,7 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fd585c573-e0e.png\/raw?ref=main"
       ],
       "packageName": "free.zona",
-      "added": 1792861724545,
-      "platforms": [
-        "android"
-      ]
+      "added": 1792861724545
     },
     {
       "id": "a30d3018-e92",
@@ -77,10 +74,7 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Fa30d3018-e92.png\/raw?ref=main"
       ],
       "packageName": "com.ruvideohub.app",
-      "added": 1792871110032,
-      "platforms": [
-        "android"
-      ]
+      "added": 1792871110032
     },
     {
       "id": "2e1318ca-76a",
@@ -95,10 +89,7 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F2e1318ca-76a.png\/raw?ref=main"
       ],
       "packageName": "llc.itdev.incy",
-      "added": 1792871328014,
-      "platforms": [
-        "android"
-      ]
+      "added": 1792871328014
     },
     {
       "id": "bda45086-0d1",
@@ -131,10 +122,7 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F95cfb298-44a.png\/raw?ref=main"
       ],
       "packageName": "ru.yourok.torrserve",
-      "added": 1792873629055,
-      "platforms": [
-        "android"
-      ]
+      "added": 1792873629055
     },
     {
       "id": "4c78c1c0-6ea",
@@ -185,10 +173,7 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F8f3ff6f4-3a4.png\/raw?ref=main"
       ],
       "packageName": "top.rootu.lampa",
-      "added": 1792873792763,
-      "platforms": [
-        "android"
-      ]
+      "added": 1792873792763
     },
     {
       "id": "57e55236-dbb",
@@ -257,10 +242,7 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F32967d97-5f3.png\/raw?ref=main"
       ],
       "packageName": "su.happ.proxyutility",
-      "added": 1792874003957,
-      "platforms": [
-        "android"
-      ]
+      "added": 1792874003957
     },
     {
       "id": "d6fe1997-747",
@@ -329,10 +311,7 @@
         "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F419dc510-ad9.png\/raw?ref=main&v=1792876944"
       ],
       "packageName": "top.rootu.prisma",
-      "added": 1792876948285,
-      "platforms": [
-        "android"
-      ]
+      "added": 1792876948285
     },
     {
       "id": "67938e9a-7b3",
@@ -351,10 +330,7 @@
       "versionName": "0.2.50",
       "versionCode": 41,
       "size": 19010515,
-      "added": 1792878294814,
-      "platforms": [
-        "android"
-      ]
+      "added": 1792878294814
     },
     {
       "id": "86b5b75e-75b",
@@ -373,10 +349,7 @@
       "versionName": "4.2.2",
       "versionCode": 40202,
       "size": 193082465,
-      "added": 1792878486848,
-      "platforms": [
-        "android"
-      ]
+      "added": 1792878486848
     },
     {
       "id": "54ef3022-6a6",
@@ -395,10 +368,7 @@
       "versionName": "0.29.1 beta",
       "versionCode": 29,
       "size": 12374699,
-      "added": 1792878685522,
-      "platforms": [
-        "android"
-      ]
+      "added": 1792878685522
     },
     {
       "id": "b7bf4910-a03",
@@ -505,10 +475,7 @@
       "versionName": "1.93.4",
       "versionCode": 2001002584,
       "size": 49825824,
-      "added": 1793035233897,
-      "platforms": [
-        "android"
-      ]
+      "added": 1793035233897
     },
     {
       "id": "985d3df6-323",
@@ -549,10 +516,7 @@
       "versionName": "1.9.1",
       "versionCode": 1901,
       "size": 135894234,
-      "added": 1793105826382,
-      "platforms": [
-        "android"
-      ]
+      "added": 1793105826382
     },
     {
       "id": "0b607076-435",
@@ -571,10 +535,7 @@
       "versionName": "1.1.0",
       "versionCode": 201,
       "size": 17829757,
-      "added": 1793108219821,
-      "platforms": [
-        "android"
-      ]
+      "added": 1793108219821
     },
     {
       "id": "6834bf15-fc4",
@@ -617,7 +578,7 @@
       "size": 65615785,
       "added": 1793110553338,
       "platforms": [
-        "android"
+        "tv"
       ]
     }
   ]
