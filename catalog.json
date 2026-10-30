@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1793289999214,
+  "updated": 1793370455869,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -287,12 +287,12 @@
       "category": "kvn",
       "source": "github",
       "repo": "https:\/\/github.com\/2dust\/v2rayNG",
+      "assetFilter": "^(?!.*fdroid)",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/7e7a5ce6-81a.png?v=1792874149",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F7e7a5ce6-81a.png\/raw?ref=main"
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F7e7a5ce6-81a.png\/raw?ref=main&v=1793370449"
       ],
-      "packageName": "com.v2ray.ang.fdroid",
+      "packageName": "com.v2ray.ang",
       "added": 1792874150952,
       "platforms": [
         "android"
