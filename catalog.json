@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1794170634902,
+  "updated": 1794170798236,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -600,6 +600,24 @@
       "versionCode": 27,
       "size": 41654574,
       "added": 1794170634902
+    },
+    {
+      "id": "98d5ba4a-c38",
+      "name": "Husi",
+      "description": "",
+      "category": "kvn",
+      "source": "github",
+      "repo": "https:\/\/github.com\/xchacha20-poly1305\/husi",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/98d5ba4a-c38.png?v=1794170794",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F98d5ba4a-c38.png\/raw?ref=main&v=1794170794"
+      ],
+      "packageName": "fr.husi",
+      "added": 1794170798236,
+      "platforms": [
+        "android"
+      ]
     }
   ]
 }
