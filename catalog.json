@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1794160133225,
+  "updated": 1794170634902,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -581,6 +581,25 @@
       "platforms": [
         "tv"
       ]
+    },
+    {
+      "id": "99d2890c-af8",
+      "name": "AllaTV",
+      "description": "",
+      "category": "cinema",
+      "source": "direct",
+      "urls": [
+        "https:\/\/allatv.fun\/AllaTV_v1.8.8.apk"
+      ],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/99d2890c-af8.png?v=1794170630",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F99d2890c-af8.png\/raw?ref=main&v=1794170630"
+      ],
+      "packageName": "com.allatv.app",
+      "versionName": "1.8.8",
+      "versionCode": 27,
+      "size": 41654574,
+      "added": 1794170634902
     }
   ]
 }
