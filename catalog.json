@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1794170798236,
+  "updated": 1794677581156,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -85,8 +85,8 @@
       "repo": "https:\/\/github.com\/INCY-DEV\/incy-platforms",
       "urls": [],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/2e1318ca-76a.png?v=1792871325",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F2e1318ca-76a.png\/raw?ref=main"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/2e1318ca-76a.png?v=1794677576",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F2e1318ca-76a.png\/raw?ref=main&v=1794677576"
       ],
       "packageName": "llc.itdev.incy",
       "added": 1792871328014
