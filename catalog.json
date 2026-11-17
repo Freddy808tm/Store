@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1794677581156,
+  "updated": 1794905131492,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -615,6 +615,24 @@
       ],
       "packageName": "fr.husi",
       "added": 1794170798236,
+      "platforms": [
+        "android"
+      ]
+    },
+    {
+      "id": "fcc60944-acf",
+      "name": "Hiddify",
+      "description": "",
+      "category": "kvn",
+      "source": "github",
+      "repo": "https:\/\/github.com\/hiddify\/hiddify-app",
+      "urls": [],
+      "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/fcc60944-acf.png?v=1794905126",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2Ffcc60944-acf.png\/raw?ref=main&v=1794905126"
+      ],
+      "packageName": "app.hiddify.com",
+      "added": 1794905131492,
       "platforms": [
         "android"
       ]
