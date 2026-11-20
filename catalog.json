@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1795167056713,
+  "updated": 1795167199282,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -401,17 +401,17 @@
       "category": "misc",
       "source": "hosted",
       "urls": [
-        "https:\/\/github.com\/Freddy808tm\/Store\/releases\/download\/files\/ru.alienmarket-21-1794905563.apk",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/packages\/generic\/alienmarket\/1.0.0\/ru.alienmarket-21-1794905563.apk"
+        "https:\/\/github.com\/Freddy808tm\/Store\/releases\/download\/files\/ru.alienmarket-22-1795167189.apk",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/packages\/generic\/alienmarket\/1.0.0\/ru.alienmarket-22-1795167189.apk"
       ],
       "icons": [
-        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/3bcfb761-f38.png?v=1794905568",
-        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F3bcfb761-f38.png\/raw?ref=main&v=1794905568"
+        "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/3bcfb761-f38.png?v=1795167194",
+        "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/icons%2F3bcfb761-f38.png\/raw?ref=main&v=1795167194"
       ],
       "packageName": "ru.alienmarket",
-      "versionName": "3.0",
-      "versionCode": 21,
-      "size": 437660,
+      "versionName": "3.1",
+      "versionCode": 22,
+      "size": 438202,
       "added": 1792933405215
     },
     {
