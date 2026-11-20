@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "AlienMarket",
-  "updated": 1794935688061,
+  "updated": 1795167056713,
   "mirrors": [
     "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/catalog.json",
     "https:\/\/gitlab.com\/api\/v4\/projects\/Rezident.023%2Fmarket\/repository\/files\/catalog.json\/raw?ref=main",
@@ -621,6 +621,7 @@
       "category": "kvn",
       "source": "github",
       "repo": "https:\/\/github.com\/hiddify\/hiddify-app",
+      "tests": "admin",
       "urls": [],
       "icons": [
         "https:\/\/raw.githubusercontent.com\/Freddy808tm\/Store\/main\/icons\/fcc60944-acf.png?v=1794905126",
